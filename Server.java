@@ -2,7 +2,7 @@ package com.ebrain.hashmap;
 
 import java.util.*;
 
-public class HashMapCore {
+public class HashMapCoree {
 
     interface Bank {
         void deposit(double amount);
